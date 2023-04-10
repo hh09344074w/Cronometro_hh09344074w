@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro.Presentacion", "Cronometro.Presentacion\Cronometro.Presentacion.csproj", "{A6B431AF-0482-42FA-93F7-2D53482B2FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro.Modelo.Interfaces", "Cronometro.Modelo.Interfaces\Cronometro.Modelo.Interfaces.csproj", "{3301E09D-46A8-4F4C-A593-0203EFD134CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro.Modelo", "Cronometro.Modelo\Cronometro.Modelo.csproj", "{C1836EBB-95C7-4D74-A6ED-6221C3FD8D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B431AF-0482-42FA-93F7-2D53482B2FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B431AF-0482-42FA-93F7-2D53482B2FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B431AF-0482-42FA-93F7-2D53482B2FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B431AF-0482-42FA-93F7-2D53482B2FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3301E09D-46A8-4F4C-A593-0203EFD134CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3301E09D-46A8-4F4C-A593-0203EFD134CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3301E09D-46A8-4F4C-A593-0203EFD134CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3301E09D-46A8-4F4C-A593-0203EFD134CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1836EBB-95C7-4D74-A6ED-6221C3FD8D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1836EBB-95C7-4D74-A6ED-6221C3FD8D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1836EBB-95C7-4D74-A6ED-6221C3FD8D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1836EBB-95C7-4D74-A6ED-6221C3FD8D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
